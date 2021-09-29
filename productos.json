@@ -1,0 +1,20 @@
+[
+  {
+    "item": "Mouse",
+    "marca": "Red Dragon",
+    "precio": "3499.99",
+    "id": 1
+  },
+  {
+    "item": "Mouse",
+    "marca": "Logitech",
+    "precio": "4780.00",
+    "id": 2
+  },
+  {
+    "item": "Mouse",
+    "marca": "Razer",
+    "precio": "7299.99",
+    "id": 3
+  }
+]
